@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="douglaswdias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="douglaswdias | LinkedIn" width="22px" src="https://w7.pngwing.com/pngs/794/124/png-transparent-white-and-blue-application-logo-microsoft-outlook-outlook-com-hotmail-email-microsoft-blue-angle-text.png" />][email]
+[<img align="left" alt="douglaswdias | LinkedIn" width="22px" src="https://s2.glbimg.com/gwzrE_0Cxl5mL4VyOzXmnneTAR0=/0x0:694x392/695x393/s.glbimg.com/po/tt2/f/original/2015/04/28/microsoft-outlook-com.jpg" />][email]
 
 <br />
 <br />
