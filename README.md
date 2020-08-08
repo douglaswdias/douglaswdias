@@ -8,7 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="douglaswdias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="douglaswdias | LinkedIn" width="22px" src="https://w7.pngwing.com/pngs/794/124/png-transparent-white-and-blue-application-logo-microsoft-outlook-outlook-com-hotmail-email-microsoft-blue-angle-text.png" />][email]
 
 <br />
 <br />
@@ -47,6 +48,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/douglas-dias-83031b29/
+[email]: mailto:douglas.wdias@hotmail.com
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats#customization-->
