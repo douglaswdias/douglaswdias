@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="douglaswdias | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.nicepng.com/png/full/27-277988_linkedin-logo-png-branco.png)" />][linkedin]
+[<img align="left" alt="douglaswdias | LinkedIn" width="22px" src="https://www.nicepng.com/png/full/27-277988_linkedin-logo-png-branco.png" />][linkedin]
 [<img align="left" alt="douglaswdias | LinkedIn" width="22px" src="https://w7.pngwing.com/pngs/705/107/png-transparent-microsoft-outlook-outlook-com-outlook-mobile-email-outlook-miscellaneous-blue-angle.png" />][email]
 
 <br />
