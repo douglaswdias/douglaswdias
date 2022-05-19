@@ -47,7 +47,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswdias&theme=radical)](https://github.com/douglaswdias)
 
 
-[linkedin]: https://www.linkedin.com/in/douglas-dias-83031b29/
+[linkedin]: https://www.linkedin.com/in/douglaswdias/
 [email]: mailto:douglas.wdias@hotmail.com
 
 
