@@ -1,7 +1,7 @@
 ### Hi there, I'm Douglas 👋
 
 ## I'm a Husband, Father and I love technology!
-- 🌱 I’m currently learning C# and React.
+- 🌱 I’m currently learning C# for Web, Desktop and Games.
 - ⚡ Fun fact: I love heavy metal and video games!
 
 <br />
@@ -44,7 +44,7 @@
 <img align="left" alt="douglaswdias's Github Stats" src="https://github-readme-stats.vercel.app/api?username=douglaswdias&show_icons=true&theme=radical" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswdias&theme=radical)](https://github.com/douglaswdias)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswdias&theme=radical&hide=ShaderLab,HLSL)](https://github.com/douglaswdias)
 
 
 [linkedin]: https://www.linkedin.com/in/douglaswdias/
