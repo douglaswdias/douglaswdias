@@ -44,7 +44,7 @@
 <img align="left" alt="douglaswdias's Github Stats" src="https://github-readme-stats.vercel.app/api?username=douglaswdias&show_icons=true&theme=radical" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswdias&theme=radical&hide=ShaderLab,HLSL)](https://github.com/douglaswdias)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswdias&theme=radical&hide=ShaderLab,HLSL&layout=compact)](https://github.com/douglaswdias)
 
 
 [linkedin]: https://www.linkedin.com/in/douglaswdias/
