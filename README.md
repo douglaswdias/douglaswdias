@@ -1,54 +1,29 @@
-### Hi there, I'm Douglas 👋
+## Hi there, I'm Douglas 👋
 
-## I'm a Husband, Father and I love technology!
-- 🌱 I’m currently learning C# for Web, Desktop and Games.
-- ⚡ Fun fact: I love heavy metal and video games!
+## I'm a Husband, Father and a technology enthusiast!
+- I’m a full support analyst, learning web development focused on backend with C#, seeking for knowledge and improving my analytical skills..
+- Graduated in information technology management at Fatec Jahu.
+
+- ♪ Fun fact: I love music and video games!
+
+---
+### 🛠Technologies and Tools
+
+<div style="display: inline_block">
+    <img align="center" alt="technologies and tools" src="https://skillicons.dev/icons?i=cs,dotnet,html,css,unity,postgres,git,postman,vscode,visualstudio,powershell&theme=&perline=6">
+</div>
+
+### ╰┈➤Connect with me 
+<div style="display: inline_block" align="center">
+    <a href="https://www.linkedin.com/in/douglaswdias" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a> 
+    <a href="https://github.com/douglaswdias" target="_blank"><img src="https://skillicons.dev/icons?i=github"></a> 
+</div
 
 <br />
-
-### Connect with me:
-
-[<img align="left" alt="douglaswdias | LinkedIn" width="22px" src="https://www.nicepng.com/png/full/27-277988_linkedin-logo-png-branco.png" />][linkedin]
-[<img align="left" alt="douglaswdias | LinkedIn" width="22px" src="https://w7.pngwing.com/pngs/705/107/png-transparent-microsoft-outlook-outlook-com-outlook-mobile-email-outlook-miscellaneous-blue-angle.png" />][email]
-
-<br />
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://cdn4.iconfinder.com/data/icons/free-social-media-icons-1/200/1469470492_Git-512.png" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn1.iconfinder.com/data/icons/social-media-and-logos-8/32/social_media_online_logo_github-512.png" />
-<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
-<img align="left" alt="CSharp" width="26px" src="https://cdn2.iconfinder.com/data/icons/coding-files-extensions/512/coding-file-extension-csharp-512.png" />
-
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
-<!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
-<!-- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> -->
-<br />
-
-<!-- --- -->
-
-<!-- ### 📺 YouTube Channel -->
-<!-- YOUTUBE:START -->
-<!-- (https://www.youtube.com/channel/UCE3IyVnsEsMcPh96tWVXUow?view_as=subscriber) -->
-<!-- YOUTUBE:END -->
-
 
 ---
 
 <img align="left" alt="douglaswdias's Github Stats" src="https://github-readme-stats.vercel.app/api?username=douglaswdias&show_icons=true&theme=radical" />
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswdias&theme=radical&hide=ShaderLab,HLSL&layout=compact)](https://github.com/douglaswdias)
 
-
-[linkedin]: https://www.linkedin.com/in/douglaswdias/
-[email]: mailto:douglas.wdias@hotmail.com
-
-
-<!-- https://github.com/anuraghazra/github-readme-stats#customization-->
